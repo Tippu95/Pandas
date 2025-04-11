@@ -1,0 +1,122 @@
+[
+    {
+        "EmployeeID": 1,
+        "FirstName": "John",
+        "LastName": "Doe",
+        "Department": "Engineering",
+        "Position": "Software Engineer",
+        "Salary": 80000
+    },
+    {
+        "EmployeeID": 2,
+        "FirstName": "Jane",
+        "LastName": "Smith",
+        "Department": "Marketing",
+        "Position": "Marketing Manager",
+        "Salary": 75000
+    },
+    {
+        "EmployeeID": 3,
+        "FirstName": "Emily",
+        "LastName": "Johnson",
+        "Department": "Sales",
+        "Position": "Sales Representative",
+        "Salary": 60000
+    },
+    {
+        "EmployeeID": 4,
+        "FirstName": null,
+        "LastName": null,
+        "Department": null,
+        "Position": null,
+        "Salary": null
+    },
+    {
+        "EmployeeID": 5,
+        "FirstName": "Michael",
+        "LastName": null,
+        "Department": null,
+        "Position": null,
+        "Salary": 85000
+    },
+    {
+        "EmployeeID": 6,
+        "FirstName": null,
+        "LastName": null,
+        "Department": null,
+        "Position": null,
+        "Salary": null
+    },
+    {
+        "EmployeeID": 7,
+        "FirstName": null,
+        "LastName": null,
+        "Department": null,
+        "Position": null,
+        "Salary": null
+    },
+    {
+        "EmployeeID": 8,
+        "FirstName": null,
+        "LastName": null,
+        "Department": null,
+        "Position": null,
+        "Salary": null
+    },
+    {
+        "EmployeeID": 9,
+        "FirstName": null,
+        "LastName": null,
+        "Department": null,
+        "Position": null,
+        "Salary": null
+    },
+    {
+        "EmployeeID": 10,
+        "FirstName": null,
+        "LastName": null,
+        "Department": null,
+        "Position": null,
+        "Salary": null
+    },
+    {
+        "EmployeeID": 11,
+        "FirstName": "Linda",
+        "LastName": "Jackson",
+        "Department": "HR",
+        "Position": "Recruiter",
+        "Salary": "58000"
+    },
+    {
+        "EmployeeID": 12,
+        "FirstNmae": "Daniel ",
+        "Lastname": "White ",
+        "Deparment": "Finance ",
+        "Postion": "Accountant ",
+        "Saalry": "6300"
+    },
+    {
+        "EmployeeID": 13,
+        "FirstNmae": "Karen ",
+        "Lastname": "Harris ",
+        "Deparment": "Engineering ",
+        "Postion": "Frontend Developer ",
+        "Saalry": "8700"
+    },
+    {
+        "EmployeeID": 14,
+        "FirstNmae": "Matthew ",
+        "Lastname": "Martin ",
+        "Deparment": "Sales ",
+        "Postion": "Sales Manager ",
+        "Saalry": "7200"
+    },
+    {
+        "EmployeeID": 15,
+        "FirstNmae": "Nancy ",
+        "Lastname": "Thompson ",
+        "Deparment": "Marketing ",
+        "Postion": "SEO Specialist ",
+        "Saalry": "6400"
+    }
+]

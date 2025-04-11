@@ -1,0 +1,51 @@
+EmployeeID,FirstName,LastName,Department,Position,Salary
+1,John,Doe,Engineering,Software Engineer,80000
+2,Jane,Smith,Marketing,Marketing Manager,75000
+3,Emily,Johnson,Sales,Sales Representative,60000
+4,Michael,Brown,Engineering,DevOps Engineer,85000
+5,Jessica,Davis,HR,HR Manager,70000
+6,David,Wilson,Finance,Financial Analyst,65000
+7,Sarah,Moore,Engineering,QA Engineer,62000
+8,James,Taylor,Sales,Account Manager,68000
+9,Laura,Anderson,Marketing,Content Writer,55000
+10,Robert,Thomas,Engineering,Backend Developer,90000
+11,Linda,Jackson,HR,Recruiter,58000
+12,Daniel,White,Finance,Accountant,63000
+13,Karen,Harris,Engineering,Frontend Developer,87000
+14,Matthew,Martin,Sales,Sales Manager,72000
+15,Nancy,Thompson,Marketing,SEO Specialist,64000
+16,Christopher,Garcia,Engineering,Data Scientist,95000
+17,Patricia,Martinez,HR,HR Coordinator,56000
+18,Joshua,Robinson,Finance,Financial Planner,67000
+19,Barbara,Clark,Engineering,System Administrator,78000
+20,Andrew,Rodriguez,Sales,Sales Associate,59000
+21,Susan,Lewis,Marketing,Social Media Manager,71000
+22,Joseph,Lee,Engineering,Network Engineer,83000
+23,Margaret,Walker,HR,HR Assistant,54000
+24,Charles,Hall,Finance,Investment Analyst,76000
+25,Lisa,Allen,Engineering,Security Engineer,88000
+26,Steven,Young,Sales,Business Development Manager,74000
+27,Betty,King,Marketing,Brand Manager,69000
+28,Mark,Wright,Engineering,Machine Learning Engineer,92000
+29,Dorothy,Scott,HR,HR Specialist,60000
+30,Paul,Green,Finance,Tax Advisor,72000
+31,Sandra,Adams,Engineering,Cloud Engineer,87000
+32,Donald,Baker,Sales,Territory Manager,68000
+33,Ashley,Gonzalez,Marketing,Market Research Analyst,65000
+34,George,Nelson,Engineering,AI Engineer,94000
+35,Kimberly,Carter,HR,HR Generalist,61000
+36,Edward,Mitchell,Finance,Risk Analyst,73000
+37,Michelle,Perez,Engineering,Software Architect,99000
+38,Brian,Roberts,Sales,Regional Sales Manager,76000
+39,Shirley,Turner,Marketing,Product Marketing Manager,70000
+40,Ronald,Phillips,Engineering,Full Stack Developer,91000
+41,Carolyn,Campbell,HR,Compensation Analyst,62000
+42,Kevin,Parker,Finance,Budget Analyst,74000
+43,Amy,Evans,Engineering,Mobile Developer,88000
+44,Jason,Edwards,Sales,Inside Sales Representative ,67000
+45,Rebecca ,Collins ,Marketing ,Digital Marketing Specialist ,66000
+46,Eric ,Stewart ,Engineering ,Embedded Systems Engineer ,93000
+47,Kathleen ,Sanchez ,HR ,Training Coordinator ,63000
+48,Ryan ,Morris ,Finance ,Credit Analyst ,75000
+49,Sharon ,Rogers ,Engineering ,Software Development Manager ,100000
+50,Jacob ,Reed ,Sales ,Sales Consultant ,69000

@@ -1,0 +1,51 @@
+EmployeeID,FirstName,LastName,Department,Position,ManagerID
+1,John,Doe,Engineering,Software Engineer,
+2,Jane,Smith,Marketing,Marketing Manager,1
+3,Emily,Johnson,Sales,Sales Representative,2
+4,Michael,Brown,Engineering,DevOps Engineer,1
+5,Jessica,Davis,HR,HR Manager,
+6,David,Wilson,Finance,Financial Analyst,5
+7,Sarah,Moore,Engineering,QA Engineer,4
+8,James,Taylor,Sales,Account Manager,3
+9,Laura,Anderson,Marketing,Content Writer,2
+10,Robert,Thomas,Engineering,Backend Developer,4
+11,Linda,Jackson,HR,Recruiter,5
+12,Daniel,White,Finance,Accountant,6
+13,Karen,Harris,Engineering,Frontend Developer,4
+14,Matthew,Martin,Sales,Sales Manager,3
+15,Nancy,Thompson,Marketing,SEO Specialist,2
+16,Christopher,Garcia,Engineering,Data Scientist,4
+17,Patricia,Martinez,HR,HR Coordinator,
+18,Joshua,Robinson,Finance,Financial Planner,6
+19,Barbara,Clark,Engineering,System Administrator,4
+20,Andrew,Rodriguez,Sales,Sales Associate,3
+21,Susan,Lewis,Marketing,Social Media Manager,2
+22,Joseph,Lee,Engineering,Network Engineer,4
+23,Margaret,Walker,HR,HR Assistant,
+24,Charles,Hall,Finance,Investment Analyst,6
+25,Lisa,Allen,Engineering,Security Engineer,
+26,Steven,Young,Sales,Business Development Manager,
+27,Betty,King,Marketing,Brand Manager,
+28,Mark ,Wright ,Engineering ,Machine Learning Engineer ,4
+29,Dorothy ,Scott ,HR ,HR Specialist ,
+30,Paul ,Green ,Finance ,Tax Advisor ,6
+31,Sandra ,Adams ,Engineering ,Cloud Engineer ,4
+32,Donald ,Baker ,Sales ,Territory Manager ,3
+33,Ashley ,Gonzalez ,Marketing ,Market Research Analyst ,
+34,George ,Nelson ,Engineering ,AI Engineer ,
+35,Kimberly ,Carter ,HR ,HR Generalist ,
+36,Edward ,Mitchell ,Finance ,Risk Analyst ,
+37,Michelle ,Perez ,Engineering ,Software Architect ,
+38,Brian ,Roberts ,Sales ,Regional Sales Manager ,
+39,Shirley ,Turner ,Marketing ,Product Marketing Manager ,
+40,Ronald ,Phillips ,Engineering ,Full Stack Developer ,
+41,Carolyn ,Campbell ,HR ,Compensation Analyst ,
+42,Kevin ,Parker ,Finance ,Budget Analyst ,
+43,Amy ,Evans ,Engineering ,Mobile Developer ,
+44,Jason ,Edwards ,Sales ,Inside Sales Representative ,
+45,Rebecca  Collins  Marketing  Digital Marketing Specialist  None
+46,Eric  Stewart  Engineering  Embedded Systems Engineer  None
+47,Kathleen  Sanchez  HR  Training Coordinator  None
+48,Ryan  Morris  Finance  Credit Analyst  None
+49,Sharon  Rogers  Engineering  Software Development Manager  None
+50,Jacob  Reed  Sales  Sales Consultant  None
