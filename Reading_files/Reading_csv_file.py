@@ -18,3 +18,5 @@ print(df.head())
 # selecting columns data from dataframe
 print("####### selected coluymn data ##########")
 print(df[['EmployeeID', 'FirstName', 'Department']])
+
+# adding filters
