@@ -16,7 +16,11 @@ print("####### head content ##########")
 print(df.head())
 
 # selecting columns data from dataframe
-print("####### selected coluymn data ##########")
+print("####### selected column data ##########")
 print(df[['EmployeeID', 'FirstName', 'Department']])
+selected = df[['EmployeeID', 'FirstName', 'Department']]
 
 # adding filters with select
+print("####### selected column with filtered data ##########")
+filtered_df = selected[selected['Department'] == 'Engineering'] [['EmployeeID', 'FirstName']]
+print(filtered_df)
