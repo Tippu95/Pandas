@@ -19,4 +19,4 @@ print(df.head())
 print("####### selected coluymn data ##########")
 print(df[['EmployeeID', 'FirstName', 'Department']])
 
-# adding filters with
+# adding filters with select
